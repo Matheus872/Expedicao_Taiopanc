@@ -23,6 +23,12 @@ O jogo se apresenta como uma alternativa pertinente aos textos conteudistas e bu
 O enredo do jogo se passa na cidade fictícia "Taiô", que possui diversas referências à antiga Taiobeiras, local onde a taioba, uma das PANC tratadas cresce de forma nativa. Estando o enredo dividido em três vertentes principais, em cada uma delas o jogador poderá atuar de forma diferente ao escolher entre uma das três propostas de atuação: Cultivador, Cozinheiro e Pesquisador. Cada uma dessas três propostas contará com variados desafios e problemas a serem solucionados pelos alunos durante a exploração.
 
 
+
+<h1 align="center">
+  <img alt="Cenário que representa a feira municipal de Taiobeiras" src="./rsc/img_1.png"/>
+</h1>
+
+
 # Features
 - [x] Customização do personagem
 - [X] Diferentes linhas de história
